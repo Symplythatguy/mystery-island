@@ -4,8 +4,9 @@ print("Welcome,", nick_name)
 
 location = "Beach"
 energy = 5
-inventory = ([])
+inventory = []
 
 print("Location:", location)
 print("Energy:", energy)
 print("Inventory:", inventory)
+
